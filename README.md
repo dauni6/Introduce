@@ -4,11 +4,17 @@
   
   시작은 웹을 공부 했으나 안드로이드에 대환 관심이 멈추지 않아 안드로이드 공부를 시작했습니다.
   
+  누구의 도움도 받을 수 없어서 삽질의 삽질을 반복하며 혼자서 코딩을 배우고 있습니다.
+  
   현재 안드로이드 개발 및 공부중이며, Java, Kotlin, MVVM 공부에 집중하고 있습니다.
   
   팀 동료와 커뮤니케이션 및 스터디에 관심이 많습니다.
   
-  알고리즘 공부에도 관심이 많습니다. 백준 온라인 져지 : https://www.acmicpc.net/user/codingbrucelee
+  알고리즘 공부에도 관심이 많습니다. 
+  
+  백준 온라인 져지 : https://www.acmicpc.net/user/codingbrucelee
+  
+  네이버 블로그 : https://blog.naver.com/dauni6
   
   
 # 이력
