@@ -12,15 +12,39 @@
 # 이력
   부산IT교육센터 수료
   
-# 작업
+# 활동
 
-'애니톡' 트위터 클론형식으로 만든 일상 공유 앱
+### '애니톡' 트위터 클론형식으로 만든 일상 공유 앱
+
 https://play.google.com/store/apps/details?id=com.twitter.twitterclone
 
-'도전로또의신' 무료 로또번호 생성 앱
-https://play.google.com/store/apps/details?id=com.god.challengelotto
+<div>
+ <img width="200" src="https://user-images.githubusercontent.com/45280927/87866303-28df1f80-c9bb-11ea-8986-ac4f13e8d4a8.PNG">
+  <img width="200" src="https://user-images.githubusercontent.com/45280927/87866307-2b417980-c9bb-11ea-8fb5-d56182f93721.PNG">  
+  <img width="200" src="https://user-images.githubusercontent.com/45280927/87866308-2d0b3d00-c9bb-11ea-8a4a-be49a728d0ee.PNG">  
+</div>
 
-'아이스캐리연산점' 무인 아이스크림 가게 아이스크림 검색앱, 찾고자 하는 아이스크림이 있는지 없는지 파악 가능
+_____
+
+### '도전로또의신' 무료 로또번호 생성 앱
+
+https://play.google.com/store/apps/details?id=com.god.challengelotto
+<div>
+ <img width="200" src="https://user-images.githubusercontent.com/45280927/87866309-309ec400-c9bb-11ea-82e1-5c3a3bd7f136.PNG">
+  <img width="200" src="https://user-images.githubusercontent.com/45280927/87866310-33011e00-c9bb-11ea-977e-c2081edfad0c.PNG">  
+  <img width="200" src="https://user-images.githubusercontent.com/45280927/87866311-3399b480-c9bb-11ea-8dff-07d74ed66460.PNG">
+   <img width="200" src="https://user-images.githubusercontent.com/45280927/87866312-35637800-c9bb-11ea-9cb3-4beed301b89f.PNG">  
+</div>
+
+_____
+
+### '아이스캐리연산점' 무인 아이스크림 가게 아이스크림 검색앱, 찾고자 하는 아이스크림이 있는지 없는지 파악 가능
+
 https://play.google.com/store/apps/details?id=com.sweet.icecarryfoodapp
+
+<div>
+ <img width="200" src="https://user-images.githubusercontent.com/45280927/87866314-37c5d200-c9bb-11ea-999f-fbd50fb1bf13.PNG">
+  <img width="200" src="https://user-images.githubusercontent.com/45280927/87866316-385e6880-c9bb-11ea-9aa8-1de0e60334de.PNG">  
+</div>
 
 
