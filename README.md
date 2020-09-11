@@ -36,10 +36,15 @@ https://play.google.com/store/apps/details?id=com.twitter.twitterclone
   <img width="200" src="https://user-images.githubusercontent.com/45280927/87866308-2d0b3d00-c9bb-11ea-8a4a-be49a728d0ee.PNG">  
 </div>
 
-<Kotlin, Android API 28, Firebase, Glide, permissions>
-1. 해쉬택 검색을 통해 원하는 피드를 찾을 수 있습니다.
+사용언어 : Kotlin
+안드로이드 : Android API 29
+서버 : Firebase
+API : Glide, MultiDex
+
+1. 해쉬태그 검색을 통해 원하는 게시글을 찾을 수 있습니다.
 2. 게시글 좋아요/유저 팔로우 기능을 사용할 수 있습니다.
 3. 내가 적은 글만 따로 볼 수 있습니다.
+4. Firebase를 통해 비밀번호 변경 및 회원탈퇴가 가능합니다.
 
 _____
 
@@ -52,6 +57,14 @@ https://play.google.com/store/apps/details?id=com.god.challengelotto
   <img width="200" src="https://user-images.githubusercontent.com/45280927/87866311-3399b480-c9bb-11ea-8dff-07d74ed66460.PNG">
    <img width="200" src="https://user-images.githubusercontent.com/45280927/87866312-35637800-c9bb-11ea-9cb3-4beed301b89f.PNG">  
 </div>
+
+사용언어 : Kotlin
+안드로이드 : Android API28
+API : Glide, Google adMob
+
+1. 원하는 번호를 선택한 뒤 확인을 누르면 즉시 당첨여부를 알 수 있습니다.
+2. 자동선택 사용 가능합니다.
+3. 당첨된 번호는내부저장소에 저장한 뒤 당첨내역에 보여줍니다.
 
 _____
 
