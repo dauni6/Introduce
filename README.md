@@ -1,5 +1,9 @@
 # 소개
+ 
+ 
+ 
   경험이 부족하지만 열정은 부족하지 않습니다.
+  
   될 때까지 도전하고 끊임없이 탐구하는 자세로 코딩하고 있습니다.
   
   시작은 웹을 공부 했으나 안드로이드에 대한 관심이 멈추지 않아 안드로이드 공부를 시작했습니다.
@@ -22,16 +26,17 @@
 # 이력
   부산IT교육센터 자바/안드로이드 과정 수료
   
-  한국기술교육대학교 평생교육원 컴퓨터공학과
+  한국기술교육대학교 평생교육원 컴퓨터공학과 이수중
   
 # 활동
 
 ### '애니톡' 트위터 클론형식으로 만든 일상 공유 앱
 
+* 구글플레이스토어
 https://play.google.com/store/apps/details?id=com.twitter.twitterclone
 
 <div>
- <img width="200" src="https://user-images.githubusercontent.com/45280927/87866303-28df1f80-c9bb-11ea-8986-ac4f13e8d4a8.PNG">
+  <img width="200" src="https://user-images.githubusercontent.com/45280927/87866303-28df1f80-c9bb-11ea-8986-ac4f13e8d4a8.PNG">
   <img width="200" src="https://user-images.githubusercontent.com/45280927/87866307-2b417980-c9bb-11ea-8fb5-d56182f93721.PNG">  
   <img width="200" src="https://user-images.githubusercontent.com/45280927/87866308-2d0b3d00-c9bb-11ea-8a4a-be49a728d0ee.PNG">  
 </div>
@@ -53,6 +58,7 @@ _____
 
 ### '도전로또의신' 무료 로또번호 생성 앱
 
+* 구글플레이스토어
 https://play.google.com/store/apps/details?id=com.god.challengelotto
 <div>
  <img width="200" src="https://user-images.githubusercontent.com/45280927/87866309-309ec400-c9bb-11ea-82e1-5c3a3bd7f136.PNG">
@@ -75,6 +81,7 @@ _____
 
 ### '아이스캐리연산점' 무인 아이스크림 가게 아이스크림 검색앱, 찾고자 하는 아이스크림이 있는지 없는지 파악 가능
 
+* 구글플레이스토어
 https://play.google.com/store/apps/details?id=com.sweet.icecarryfoodapp
 
 <div>
