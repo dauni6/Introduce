@@ -37,9 +37,12 @@ https://play.google.com/store/apps/details?id=com.twitter.twitterclone
 </div>
 
 사용언어 : Kotlin
+
 안드로이드 : Android API 29
+
 서버 : Firebase
-API : Glide, MultiDex
+
+API : Glide, MultiDex, Firebase
 
 1. 해쉬태그 검색을 통해 원하는 게시글을 찾을 수 있습니다.
 2. 게시글 좋아요/유저 팔로우 기능을 사용할 수 있습니다.
@@ -59,12 +62,14 @@ https://play.google.com/store/apps/details?id=com.god.challengelotto
 </div>
 
 사용언어 : Kotlin
-안드로이드 : Android API28
+
+안드로이드 : Android API 28
+
 API : Glide, Google adMob
 
 1. 원하는 번호를 선택한 뒤 확인을 누르면 즉시 당첨여부를 알 수 있습니다.
 2. 자동선택 사용 가능합니다.
-3. 당첨된 번호는내부저장소에 저장한 뒤 당첨내역에 보여줍니다.
+3. 당첨된 번호는 내부저장소에 저장한 뒤 당첨내역에 보여줍니다.
 
 _____
 
@@ -77,4 +82,16 @@ https://play.google.com/store/apps/details?id=com.sweet.icecarryfoodapp
   <img width="200" src="https://user-images.githubusercontent.com/45280927/87866316-385e6880-c9bb-11ea-9aa8-1de0e60334de.PNG">  
 </div>
 
+사용언어 : kotlin
 
+안드로이드 : Android API 28
+
+서버 : Firebase
+
+API : Firebase, Glide, Multidex, Google adMob
+
+1. 원하는 아이스크림이 있는지 검색이 가능합니다.
+2. 관리자는 아이스크림을 등록할 수 있고 등록된 아이스크림은 문자열파싱을 통해 각 글자 또는 문장형식으로 서버에 저장 됩니다.
+따라서 메로나의 '메로'까지 적어도 검색이 가능하도록 만들었습니다.
+3. 아이스크림 신상이 등록되면 Firebase notification으로 푸쉬알림이 옵니다.
+4. 카카오버튼을 만든 뒤 채널과 연동하여 관리자와 1:1 채팅이 가능합니다.
