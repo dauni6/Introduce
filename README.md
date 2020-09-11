@@ -1,8 +1,10 @@
 # 소개
- 
+
   <div>
   <img width="500" src="https://user-images.githubusercontent.com/45280927/92878460-175c4600-f447-11ea-85e3-2a98980a8437.PNG">
  </div>
+ 
+  <부산 IT 교육센터 발표 당시 사진>
  
   경험이 부족하지만 열정은 부족하지 않습니다.
   
