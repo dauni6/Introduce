@@ -36,6 +36,11 @@ https://play.google.com/store/apps/details?id=com.twitter.twitterclone
   <img width="200" src="https://user-images.githubusercontent.com/45280927/87866308-2d0b3d00-c9bb-11ea-8a4a-be49a728d0ee.PNG">  
 </div>
 
+<Kotlin, Android API 28, Firebase, Glide, permissions>
+1. 해쉬택 검색을 통해 원하는 피드를 찾을 수 있습니다.
+2. 게시글 좋아요/유저 팔로우 기능을 사용할 수 있습니다.
+3. 내가 적은 글만 따로 볼 수 있습니다.
+
 _____
 
 ### '도전로또의신' 무료 로또번호 생성 앱
